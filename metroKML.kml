@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="metroKML" id="metroKML">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+	<SimpleField name="Nombre" type="string"></SimpleField>
+	<SimpleField name="Tipo" type="string"></SimpleField>
+	<SimpleField name="Linea" type="float"></SimpleField>
+</Schema>
+<Folder><name>metroKML</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Calle 72</SimpleData>
+		<SimpleData name="Tipo">Intermodal con TransMilenio con conexión directa</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0616338834921,4.660837681418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Calle 63</SimpleData>
+		<SimpleData name="Tipo">Intermodal con TransMilenio con conexión directa</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0648127680279,4.6488279337641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Calle 45</SimpleData>
+		<SimpleData name="Tipo">Intermodal con TransMilenio con conexión directa</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.067974481205,4.63089297393159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Estación Central (Calle 26)</SimpleData>
+		<SimpleData name="Tipo">Intermodal con TransMilenio con conexión directa</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0740347371994,4.61292889211331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Centro Histórico</SimpleData>
+		<SimpleData name="Tipo">Intermodal con TransMilenio con conexión directa</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0804578213906,4.6028246972174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Hospitales</SimpleData>
+		<SimpleData name="Tipo">Intermodal con TransMilenio con conexión directa</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0872457614082,4.59380219208329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Santander</SimpleData>
+		<SimpleData name="Tipo">Intermodal con TransMilenio con conexión directa</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0971281014069,4.5943507224467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Avenida NQS</SimpleData>
+		<SimpleData name="Tipo">Intermodal con TransMilenio con conexión directa</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.111468427324,4.59697637537246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Rosario</SimpleData>
+		<SimpleData name="Tipo">Sencilla</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1213584190687,4.60262823106447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Avenida 68</SimpleData>
+		<SimpleData name="Tipo">Intermodal con TransMilenio con conexión directa</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1281229419668,4.60845244246231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Avenida Boyacá</SimpleData>
+		<SimpleData name="Tipo">Intermodal con TransMilenio con conexión directa</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1402275269781,4.6183176363887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Kennedy</SimpleData>
+		<SimpleData name="Tipo">En definición</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1521487979425,4.61719449441245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Palenque</SimpleData>
+		<SimpleData name="Tipo">En definición</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1605651695828,4.61570522254055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Portal Américas</SimpleData>
+		<SimpleData name="Tipo">Intermodal con TransMilenio con conexión directa</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1718883607559,4.6300213831508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Villa Blanca</SimpleData>
+		<SimpleData name="Tipo">Sencilla</SimpleData>
+		<SimpleData name="Linea">1.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1668507865854,4.62247168604841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Calle 85</SimpleData>
+		<SimpleData name="Tipo">En definición</SimpleData>
+		<SimpleData name="Linea">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0597027907942,4.67218884755094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Calle 100</SimpleData>
+		<SimpleData name="Tipo">En definición</SimpleData>
+		<SimpleData name="Linea">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0572157004807,4.68692096612625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Calle 127</SimpleData>
+		<SimpleData name="Tipo">En definición</SimpleData>
+		<SimpleData name="Linea">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.053849475972,4.70675874182802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#metroKML">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nombre">Calle 106</SimpleData>
+		<SimpleData name="Tipo">En definición</SimpleData>
+		<SimpleData name="Linea">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0560672267007,4.69366252798071</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
