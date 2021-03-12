@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "metro3",
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Id": 0, "Nombre": "Calle 72", "Tipo": "Intermodal con TransMilenio con conexión directa", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 101765.042700000107288, 107147.908900000154972 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Id": 0, "Nombre": "Calle 63", "Tipo": "Intermodal con TransMilenio con conexión directa", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 101412.345800000242889, 105819.277899999171495 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Id": 0, "Nombre": "Calle 45", "Tipo": "Intermodal con TransMilenio con conexión directa", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 101061.615299999713898, 103835.167799999937 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Id": 0, "Nombre": "Estación Central (Calle 26)", "Tipo": "Intermodal con TransMilenio con conexión directa", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 100389.111700000241399, 101847.805500000715256 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Id": 0, "Nombre": "Centro Histórico", "Tipo": "Intermodal con TransMilenio con conexión directa", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 99676.216099999845028, 100729.952199999243021 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "Id": 0, "Nombre": "Hospitales", "Tipo": "Intermodal con TransMilenio con conexión directa", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 98922.788099999539554, 99731.7652000002563 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "Id": 0, "Nombre": "Santander", "Tipo": "Intermodal con TransMilenio con conexión directa", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 97825.758399999700487, 99792.363299999386072 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "Id": 0, "Nombre": "Avenida NQS", "Tipo": "Intermodal con TransMilenio con conexión directa", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 96233.84499999973923, 100082.73369999975 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "Id": 0, "Nombre": "Rosario", "Tipo": "Sencilla", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 95135.953200000338256, 100707.927500000223517 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "Id": 0, "Nombre": "Avenida 68", "Tipo": "Intermodal con TransMilenio con conexión directa", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 94385.025299999862909, 101352.211699999869 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 11, "Id": 0, "Nombre": "Avenida Boyacá", "Tipo": "Intermodal con TransMilenio con conexión directa", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 93041.329599999822676, 102443.531999999657273 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 12, "Id": 0, "Nombre": "Kennedy", "Tipo": "En definición", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 91718.009999999776483, 102319.2829 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 13, "Id": 0, "Nombre": "Palenque", "Tipo": "En definición", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 90783.747399999760091, 102154.543999999761581 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 14, "Id": 0, "Nombre": "Portal Américas", "Tipo": "Intermodal con TransMilenio con conexión directa", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 89526.870199999772012, 103738.314099999144673 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 15, "Id": 0, "Nombre": "Villa Blanca", "Tipo": "Sencilla", "Linea": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 90086.032300000078976, 102903.105499999597669 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 16, "Id": 0, "Nombre": "Calle 85", "Tipo": "En definición", "Linea": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 101979.235799999908, 108403.668700000271201 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 17, "Id": 0, "Nombre": "Calle 100", "Tipo": "En definición", "Linea": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 102255.086799999698997, 110033.458799999207258 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 18, "Id": 0, "Nombre": "Calle 127", "Tipo": "En definición", "Linea": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 102628.427400000393391, 112228.082599999383092 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 19, "Id": 0, "Nombre": "Calle 106", "Tipo": "En definición", "Linea": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 102382.464399999939, 110779.2675 ] } }
+]
+}
